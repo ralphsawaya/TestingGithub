@@ -1,3 +1,7 @@
 qwd
 edfjkhweufjhweuh
+<<<<<<< HEAD
 sdcsdc
+=======
+ralph
+>>>>>>> fe375c4af991bd213dd4c357b77249343d03a261
